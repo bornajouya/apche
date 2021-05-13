@@ -1,4 +1,4 @@
 #salam man borna hastam
 def main():
     print("bye")
-print('hello')
+print('bye')
